@@ -1,0 +1,34 @@
+#display {
+    position: relative;
+    left: 75px;
+    top: 65px;
+    width: 219px;
+    height: 61px;
+  }
+  
+  input {
+    width: 75px;
+    height: 65px;
+    font-size: 24px;
+    background-color: #77af60;
+    border: 1px solid #94c083;
+    /* border: 1px solid #7CA86B; */
+    margin: 0 -2px;
+    color: white;
+    outline: none;
+  }
+  #operators {
+    color: #3f5336;
+    background-color: #91bf7f;
+  }
+  
+  #operators:hover {
+    color: white;
+  }
+  .equalTo:hover {
+    background-color: #91bf7f;
+  }
+  .clear:hover {
+    background-color: #91bf7f;
+  }
+  
